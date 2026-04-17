@@ -1,5 +1,3 @@
-Output:
-
 int -> Identifier
 sum -> Identifier
 = -> Operator
