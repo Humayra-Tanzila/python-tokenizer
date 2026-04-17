@@ -1,5 +1,5 @@
 int -> Identifier
-sum -> Identifier
+sum -> Identifier 
 = -> Operator
 10 -> Literal
 ; -> Punctuation
